@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+
+* {
+    /* The box-sizing property allows us to include the padding and border in an element's total width and height.
+    If you set box-sizing: border-box; on an element, padding and border are included in the width and height: */
+    box-sizing: border-box;
+}
+
+body {
+    background-color: steelblue;
+    color: white;
+    font-family: 'Bebas Neue', 'sans-serif';
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* This puts items in the center of the page width-wise. Couple this with height: 100vh; to get it to be in the center of the page. */
+    align-items: center; /* This will align items horizontally if flex-direction is column and align items vertically if flex-direction is row */
+    height: 100vh;
+    overflow: hidden; /* hides scroll bars */
+    margin: 0;
+}
+
+.container {
+    background-color: rgba(0,0,0,0.4);
+    padding: 20px 40px;
+    border-radius:5px;
+}
+
+.container h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    letter-spacing: 2px;
+}
+
+.container a {
+    text-decoration: none;
+    color: lightblue;
+}
+
+.btn {
+    cursor: pointer;
+    display: inline-block;
+    width: 100%;
+    background: lightblue;
+    padding: 15px;
+    font-family: inherit;
+    font-size: 16px;
+    border: 0;
+    border-radius: 5px;
+    letter-spacing: 1px;
+}
+
+.btn:focus {
+    outline: 0;
+}
+
+.btn:active {
+    transform: scale(0.98);
+}
+
+.text {
+    margin-top: 30px;
+}
+
+.form-control {
+    position: relative;
+    margin: 20px 0 40px;
+    width: 300px;
+}
+
+.form-control input {
+    background-color: transparent;
+    border: 0;
+    border-bottom: 2px white solid;
+    display: block;
+    width: 100%;
+    padding: 15px 0;
+    font-size: 18px;
+    color: white;
+}
+
+.form-control input:focus, .form-control input:valid {
+    outline: 0;
+}
+
+.form-control label {
+    position: absolute;
+    top: 15px;
+    left: 0;
+}
+
+.form-control label span{
+    display: inline-block;
+    font-size: 18px;
+    min-width: 5px;
+}
