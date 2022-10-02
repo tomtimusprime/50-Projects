@@ -36,3 +36,4 @@ const colorButton = document.querySelector('#colorButton');
 colorButton.addEventListener('click', changeColor);
 
 //Worked on the react version of this.
+//Completed the react and angular versions of this.
