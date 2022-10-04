@@ -35,3 +35,5 @@ console.log(p.innerText);
 p.remove();
 console.log(`p tag removed.`);
 
+//created a random quote generator in Angular
+
