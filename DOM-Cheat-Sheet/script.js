@@ -36,4 +36,5 @@ p.remove();
 console.log(`p tag removed.`);
 
 //created a random quote generator in Angular
+//Worked on C# all day
 
