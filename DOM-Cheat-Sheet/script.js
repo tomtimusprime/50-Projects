@@ -44,3 +44,4 @@ console.log(`p tag removed.`);
 //Worked on SQL today and C# - continued working on my file reader and writer.
 //worked on C# all day at work.
 //Worked on C# all day at work.
+//Worked on C# all day at work and some sql.
