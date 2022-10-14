@@ -46,3 +46,4 @@ console.log(`p tag removed.`);
 //Worked on C# all day at work.
 //Worked on C# all day at work and some sql.
 //Worked on C# all day at work and some sql.
+//Worked on C# all day and some sql stored procedures.
