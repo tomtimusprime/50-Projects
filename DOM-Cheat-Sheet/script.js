@@ -51,3 +51,4 @@ console.log(`p tag removed.`);
 //Worked on some Javascript
 //worked on C# and SQL at work - worked on fixing PR comments
 //worked on C# and SQL at work - worked on fixing PR comments
+//Studied Javascript today
