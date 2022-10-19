@@ -50,3 +50,4 @@ console.log(`p tag removed.`);
 //worked on some Angular doing a simple javascript project in stackblitz.
 //Worked on some Javascript
 //worked on C# and SQL at work - worked on fixing PR comments
+//worked on C# and SQL at work - worked on fixing PR comments
