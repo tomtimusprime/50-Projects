@@ -56,3 +56,4 @@ console.log(`p tag removed.`);
 //studied javascript today.
 //studied javascript today.
 //worked on React today on stackblitz
+//worked on sql and SSIS today
