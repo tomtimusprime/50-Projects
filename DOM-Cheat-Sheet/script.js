@@ -62,3 +62,4 @@ console.log(`p tag removed.`);
 //Worked on SQL and SSIS today
 //Worked on SQL and SSIS today
 //Studied javascript
+//Studied SQL and C#
