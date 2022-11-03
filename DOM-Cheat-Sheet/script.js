@@ -66,3 +66,4 @@ console.log(`p tag removed.`);
 //studied React and Javascript
 //Studied React and Angular and SQL
 //worked on c# today
+//worked on C# and Angular and SQL today
