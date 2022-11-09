@@ -71,4 +71,4 @@ console.log(`p tag removed.`);
 //worked on sql and batch jobs.
 //worked on javascript
 //worked on sql
-
+//worked on C# at work all day
