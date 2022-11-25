@@ -79,3 +79,4 @@ console.log(`p tag removed.`);
 //worked on sql
 //Worked on SSIS stuff
 //worked on c# and sql today
+//worked on javascript
