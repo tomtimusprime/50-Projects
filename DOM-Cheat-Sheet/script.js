@@ -81,4 +81,6 @@ console.log(`p tag removed.`);
 //worked on c# and sql today
 //worked on javascript
 //studied javascript
+//worked on SQL and some c# today.
+
 
